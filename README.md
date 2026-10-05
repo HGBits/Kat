@@ -151,6 +151,9 @@ Operações que precisam acessar o conteúdo em claro utilizam arquivos temporá
 
 `--rm` remove o arquivo original, mas não garante apagamento físico seguro.
 
+Política de uso de IA: veja
+[`docs/Diretriz-de-Uso-de-IA.md`](./docs/Diretriz-de-Uso-de-IA.md).
+
 ## Licença
 
 Este projeto é disponibilizado sob [GPLv3+](https://github.com/HGBits/Kat/blob/main/LICENSE)
